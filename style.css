@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  display: flex;
+  margin-top: -380px;
+}
+li {
+  list-style: none;
+  margin: 20px;
+  font-weight: 800;
+  color: white;
+}
+.div1 {
+  display: flex;
+  justify-content: flex-end;
+}
+.ul1 {
+  width: 1400px;
+  display: flex;
+  justify-content: flex-end;
+}
+.birinci_h2 {
+  padding-top: 5px;
+  margin-left: 9px;
+  color: white;
+}
+.esas {
+  width: 100%;
+  height: 800px;
+  width: 100%;
+  height: 750px;
+  background-image: url(https://th.bing.com/th/id/R.90911933062ec363d19546f653246184?rik=vg4mvuwbI8yVOA&riu=http%3a%2f%2fwww.outbackphoto.com%2fCONTENT_2007_01%2fsection_workflow_basics_2010%2f20101004_PhotoOptimization_01%2f2000_marksonghurst_start.jpg&ehk=XelpWDxi80cuFssD3INzOwlQuJ%2f3%2ftw6bELdFhGGjaQ%3d&risl=&pid=ImgRaw&r=0);
+  background-position: center;
+}
+.h21 {
+  text-align: center;
+  color: white;
+}
+.birinci {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+}
